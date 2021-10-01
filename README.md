@@ -9,3 +9,7 @@ tfidf - TF-IDF model for preprocessing corpus
 lda.model - Latent Dirichlet Allocation model for topic modeling
 
 data_test.csv - small dataset for testing topic relevance
+
+predictions.py - function for predicting topics
+
+preprocess_complete. py - functions for preprocessing text
