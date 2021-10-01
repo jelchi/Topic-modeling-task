@@ -8,4 +8,4 @@ tfidf - TF-IDF model for preprocessing corpus
 
 lda.model - Latent Dirichlet Allocation model for topic modeling
 
-data_test - small dataset for testing topic relevance
+data_test.csv - small dataset for testing topic relevance
