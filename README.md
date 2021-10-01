@@ -12,4 +12,6 @@ data_test.csv - small dataset for testing topic relevance
 
 predictions.py - function for predicting topics
 
-preprocess_complete. py - functions for preprocessing text
+preprocess_complete.py - functions for preprocessing text
+
+Testing of functions.ipynb -> test of preprocessing and predict functions (predictions.py, preprocess_complete.py)
