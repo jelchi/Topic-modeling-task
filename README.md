@@ -1,6 +1,6 @@
 # Topic-modeling-task
 
-Topic modeling model development.ipynb -> notebook contains development of the LDA model for topic modeling from beginning (data import, lemmatiaztion etc.) to determining topics
+Topic modeling model development.ipynb -> notebook contains development of the LDA model for topic modeling from beginning (data import, lemmatization etc.) to determining topics
 
 dictionary - dictionary created from cleaned and lemmatized tweets
 
