@@ -15,3 +15,5 @@ predictions.py - function for predicting topics
 preprocess_complete.py - functions for preprocessing text
 
 Testing of functions.ipynb -> test of preprocessing and predict functions (predictions.py, preprocess_complete.py)
+
+Data exploration.ipynb -> data analysis
